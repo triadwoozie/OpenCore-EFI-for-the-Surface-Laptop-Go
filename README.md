@@ -2,7 +2,7 @@
 
 > **Warning:** The **internal SSD** does **not work** for macOS on the Microsoft Surface Laptop Go. While you can attempt to install macOS on the internal SSD, it may fail. The recommended method is to install macOS on an external HDD (e.g., Seagate drive). You can consider replacing the internal SSD with a compatible one; guides are available online for this process.
 
-This repository provides a fully functional OpenCore EFI configuration for running macOS on the **Microsoft Surface Laptop Go**. This setup allows macOS Ventura to be installed and run with support for essential features like Wi-Fi, audio, power management, and the touchpad.
+This repository provides a fully functional OpenCore EFI configuration for running macOS on the **Microsoft Surface Laptop Go**. This setup allows macOS Ventura to be installed and run with support for essential features like Wi-Fi, audio, power management, and the touchpad. Check Releases for the EFI
 
 ## Features
 
