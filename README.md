@@ -1,7 +1,3 @@
-Here's the updated README with the additional details about using macOS Ventura, the hardware specifications of the Surface Laptop Go, the option to change the SSD, and the new known issue related to shutdown:
-
----
-
 # OpenCore EFI Setup for Microsoft Surface Laptop Go with macOS
 
 > **Warning:** The **internal SSD** does **not work** for macOS on the Microsoft Surface Laptop Go. While you can attempt to install macOS on the internal SSD, it may fail. The recommended method is to install macOS on an external HDD (e.g., Seagate drive). You can consider replacing the internal SSD with a compatible one; guides are available online for this process.
@@ -57,7 +53,3 @@ For installation instructions, please refer to the official [OpenCore Installati
 - **Audio**: If using macOS **Ventura** or **Big Sur 11.3+**, a fix may be required for audio to work. Please refer to the [discussion](https://www.tonymacx86.com) on fixing audio for ALC274.
 - **Wi-Fi**: Ensure you're using the correct version of **AirportItlwm.kext** for your macOS version.
 - **Touchpad**: If touchpad support is not working, ensure you have the **BigSurface.kext** installed correctly.
-
----
-
-This README now includes information about using **macOS Ventura** for the installation, details on the Surface Laptop Go's hardware specifications, the option to replace the internal SSD with a compatible one, and the new **shutdown issue**.
